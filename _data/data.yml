@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: cimfontanilla@dc.tohoku.ac.jp
     phone: 
-    timezone:  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Japan/Sendai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: # Include the full website URL, including "http://" or "https://".
+    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: 
     xing: 
     github: 
@@ -33,58 +33,85 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
+
     interests:
-      title: Awards
-      info: 
-        - item: 20 th International Symposium of Silicon Chemistry Dispatch Grant
-          link: Society of Silicon Chemistry, Japan (May 2024)
+      title: Interests
+      info:
+        - item: Climbing
+          link:
 
-        - item: 2022 Tohoku University Graduate School Joint Symposium Best Poster Award
-          link: Aoba Society for the Promotion of Science (Feb 2022)
+        - item: Snowboarding
+          link:
 
-        - item: 2020 Japanese Government (MEXT) Scholarship
-          link: Embassy of Japan in the Philippines (Jun 2019)
-          
-        - item: 2015 DOST-SEI Merit Scholarship
-          link: Science Education Institute - Philippines (Jun 2015)
+        - item: Cooking
+          link:
 
 career-profile:
-    title: Introduction
+    title: Career Profile
     summary: |
       PhD Candidate interested in developing computational chemistry models that deepen mechanistic 
-      understanding of novel chemical processes, and in deriving applications for unprecedented chemical properties
-      using theoretical chemistry
-      
-experiences:
-    title: Work Experience
+      understanding of novel chemical processes and in using theoretical chemistry to develop applications
+      for unprecedented chemical properties
+education:
+    title: Education
     info:
-      - role: Graduate Researcher
-        time: Oct 2020 - Mar 2026
-        company: Tohoku University, Graduate School of Science (Department of Chemistry, Inorganic Chemistry Laboratory)
+      - degree: PhD Chemistry
+        university: Tohoku University
+        time: 2023 - 2026
         details: |
-          - Performed quantum chemistry studies with Gaussian and Multiwfn using the supercomputer at RCCS Okazaki 
-          - Used inert atmosphere techniques and NMR monitoring to conduct catalytic kinetic studies
-      - role: Undergraduate Researcher
-        time: Jun 2018 - Jun 2019
-        company: University of the Philippines Diliman, College of Science (Institute of Chemistry, Polymer Laboratory)
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
-          - Used SEM, PXRD, DLS-PCS and FTIR to elucidate how polymer additives affect crystal morphology
-          - Developed skills in PES/PEEM-LEEM (Synchrotron Radiation)
-      - role: Intern
-        time: May 2018 - Jun 2018
-        company: National Reference Laboratory East Avenue Medical Center
+          Describe your study here 
+            - Bullet point
+            - Bullet point
+
+experiences:
+    title: Experiences
+    info:
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-          - Conducted forensic drug analysis and water quality assays with LC/GC-MS, AAS and IEC
-      - role: Intern
-        time: Mar 2014 - May 2014
-        company: Philippine Nuclear Research Institute
+          Describe your role here 
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          - Modelled XRF data on urban air particulate matter to assess air quality
-        credentialurl: www.google.com
-          credentialname: Google
-          
+          Describe your role here 
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here 
+            - Bullet point
+            - Bullet point
+
 certifications:
-      title: Education
+      title: Certifications
       list:
         - name: CV Builder
           start: 2020
@@ -94,8 +121,19 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about cert.
-            
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
         - name: Git learning
           start: 2019
           end:
@@ -104,7 +142,82 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification.
- 
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
