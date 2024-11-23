@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: cimfontanilla@dc.tohoku.ac.jp
     phone: 
-    timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Japan/Sendai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: 
@@ -34,16 +34,16 @@ sidebar:
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: Awards
+      title: Languages
       info:
-        - idiom: 
-          level: 
+        - idiom: English
+          level: Native
 
-        - idiom: 
-          level: 
+        - idiom: French
+          level: Professional
 
-        - idiom: 
-          level: 
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
@@ -63,7 +63,6 @@ career-profile:
       PhD Candidate interested in developing computational chemistry models that deepen mechanistic 
       understanding of novel chemical processes and in using theoretical chemistry to develop applications
       for unprecedented chemical properties
-      
 education:
     title: Education
     info:
@@ -108,7 +107,17 @@ experiences:
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here l
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
