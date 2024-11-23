@@ -114,7 +114,7 @@ experiences:
         time: Mar 2014 - May 2014
         company: Philippine Nuclear Research Institute
         details: |
-          -Modelled XRF data on urban air particulate matter to assess air quality
+        -Modelled XRF data on urban air particulate matter to assess air quality
           
 certifications:
       title: Education
@@ -127,19 +127,8 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Details about cert.
+            
         - name: Git learning
           start: 2019
           end:
@@ -148,21 +137,13 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Older certification. 
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      You can list your side projects 
+      
     assignments:
       - title: Velocity
         link: "#hook"
@@ -230,19 +211,19 @@ skills:
 
     toolset:
       - name: 
-        level: 0
+        level: 
 
       - name: Javascript & jQuery
-        level: 0
+        level: 
 
       - name: Angular
-        level: 0
+        level: 
 
       - name: HTML5 & CSS
-        level: 0
+        level: 
 
       - name: Ruby on Rails
-        level: 0
+        level: 
 
       - name: Sketch & Photoshop
         level: 0
