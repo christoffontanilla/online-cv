@@ -8,26 +8,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Christof Fontanilla
+    tagline: PhD Candidate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: cimfontanilla@dc.tohoku.ac.jp
+    phone: 
+    timezone: Japan/Sendai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: 
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
@@ -60,18 +60,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      PhD Candidate interested in developing computational chemistry models that deepen mechanistic 
+      understanding of novel chemical processes and in using theoretical chemistry to develop applications
+      for unprecedented chemical properties
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD Chemistry
+        university: Tohoku University
+        time: 2023 - 2026
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+    - degree: MSc Chemistry
+        university: Tohoku University
+        time: 2021 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
