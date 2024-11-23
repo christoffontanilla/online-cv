@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: cimfontanilla@dc.tohoku.ac.jp
     phone: 
-    timezone: Japan/Sendai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone:  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: # Include the full website URL, including "http://" or "https://".
     linkedin: 
@@ -34,19 +34,22 @@ sidebar:
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: Professional Affiliations
+      title: 
       info: 
-        - idiom: National Institutes of Natural Sciences - Okazaki Research Facilities
-          level: Supercomputer User at Research Center for Computational Science - Registered Jan 2024
+        - idiom: 
+          level: 
 
-        - idiom: Society of Silicon Chemistry, Japan
-          level: Student Member - Admitted Sep 2023
-
-        - idiom: Chemical Society of Japan
-          level: Student Member - Admitted Nov 2022
+        - idiom: 
+          level: 
+          
+        - idiom: 
+          level: 
+          
+        - idiom: 
+          level: 
 
     interests:
-      title: 
+      title: Awards
       info:
         - item: 
           link:
@@ -63,28 +66,25 @@ career-profile:
       PhD Candidate interested in developing computational chemistry models that deepen mechanistic 
       understanding of novel chemical processes, and in deriving applications for unprecedented chemical properties
       using theoretical chemistry
+      
 education:
-    title: Education
+    title: Professional Affiliations
     info:
-      - degree: PhD Chemistry (Inorganic Chemistry - Organometallic Chemistry)
-        university: Tohoku University
-        time: 2023 - 2026
+      - degree: National Institutes of Natural Sciences - Okazaki Research Facilities
+        university: Supercomputer User at the Researcher Center for Computational Science
+        time: Registered Jan 2024
         details: |
-          Dissertation: Molybdenum Complex featuring a Mo≡Ge Triple Bond as a Hydroboration Catalyst:
-                        Experimental and Theoretical Investigations
-          Advisor: Prof. Hisako Hashimoto, Dr. Koichi Nagata
-      - degree: MSc Chemistry (Inorganic Chemistry - Organometallic Chemistry)
+          
+      - degree: Society of Silicon Chemistry, Japan
         university: Tohoku University
         time: 2021 - 2023 
         details: |
-          Thesis: Catalytic Activity of a Molybdenum-Germylyne Complex for Hydroboration Unsaturated Organic Substrates
-          Advisor: Prof. Hisako Hashimoto, Dr. Koichi Nagata
+        
       - degree: BSc Chemistry
         university: University of the Philippines Diliman
         time: 2015 - 2019
         details: |
-          Thesis: Morphological Control of Calcite via Non-homopolyanionic Biomimetic Synthesis
-          Advisor: Prof. Marlon Conato
+      
 
 experiences:
     title: Work Experience
@@ -101,9 +101,9 @@ experiences:
         details: |
           - Used SEM, PXRD, DLS-PCS and FTIR to elucidate how polymer additives affect crystal morphology
           - Developed skills in PES/PEEM-LEEM (Synchrotron Radiation)
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Intern
+        time: May 2018 - Jun 2018
+        company: National Reference Laboratory East Avenue Medical Center
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -114,7 +114,7 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: Education
       list:
         - name: CV Builder
           start: 2020
@@ -201,7 +201,7 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Research Output
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -223,26 +223,26 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: 
+        level: 
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 
 
       - name: Angular
-        level: 98%
+        level: 
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 
 
       - name: Ruby on Rails
-        level: 85%
+        level: 
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
