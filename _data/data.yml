@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: # Include the full website URL, including "http://" or "https://".
     linkedin: 
     xing: 
     github: 
@@ -51,20 +51,20 @@ sidebar:
     interests:
       title: Professional Affiliations
       info:
-        - item: Supercomputer User at the National Institutes of National Sciences - Okazaki Research Facilities - Research Center for Computational Science
+        - item: Supercomputer User at the National Institutes of National Sciences - Okazaki Research Facilities - Research Center for Computational Science (Registered Jan 2024)
           link:
 
-        - item: Student Member of the Silicon Chemistry Society, Japan
+        - item: Student Member of the Silicon Chemistry Society, Japan (Admitted Sep 2023)
           link:
 
-        - item: Student Member of the Chemical Society of the Japan
+        - item: Student Member of the Chemical Society of the Japan (Admitted Nov 2022)
           link:
 
-        - item: Registered Chemist of the Integrated Chemists of the Philippines
+        - item: Registered Chemist of the Integrated Chemists of the Philippines (Passed Board Exam Oct 2019)
           link:
 
 career-profile:
-    title: Career Profile
+    title: Introduction
     summary: |
       PhD Candidate interested in developing computational chemistry models that deepen mechanistic 
       understanding of novel chemical processes and in deriving applications for novel chemical phenomena
@@ -91,21 +91,18 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Graduate Researcher
+        time: Oct 2020 - Mar 2026
+        company: Tohoku University (Inorganic Chemistry Laboratory, Graduate School of Science)
         details: |
-          Describe your role here 
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Performed quantum chemistry studies with Gaussian and Multiwfn using the supercomputer at RCCS Okazaki
+          - Used inert atmosphere techniques and NMR monitoring to conduct catalytic kinetic studies
+      - role: Teacher
+        time: Oct 2019 - Oct 2020
+        company: Steady Steps, Holy Spirit Drive, Quezon City
         details: |
-          Describe your role here 
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          - Taught middle school to senior high school STEM
+      - role: Undergraduate Researcher
         time: 2012 - 2014
         company: Amazon, London
         details: |
@@ -134,4 +131,4 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Christof Fontanilla 
