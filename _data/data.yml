@@ -50,15 +50,18 @@ sidebar:
 
     interests:
       title: Awards
-      info:
-        - item: 
-          link:
+      info: 
+        - item: 20 th International Symposium of Silicon Chemistry Dispatch Grant
+          link: Society of Silicon Chemistry, Japan (May 2024)
 
-        - item: 
-          link:
+        - item: 2022 Tohoku University Graduate School Joint Symposium Best Poster Award
+          link: Aoba Society for the Promotion of Science (Feb 2022)
 
-        - item: 
-          link:
+        - item: 2020 Japanese Government (MEXT) Scholarship
+          link: Embassy of Japan in the Philippines (Jun 2019)
+          
+        - item: 2015 DOST-SEI Merit Scholarship
+          link: Science Education Institute - Philippines (Jun 2015)
 
 career-profile:
     title: Introduction
