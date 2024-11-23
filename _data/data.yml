@@ -80,6 +80,8 @@ experiences:
         company: Philippine Nuclear Research Institute
         details: |
           - Modelled XRF data on urban air particulate matter to assess air quality
+        credentialurl: www.google.com
+          credentialname: Google
           
 certifications:
       title: Education
@@ -102,30 +104,7 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. 
-
-certifications:
-      title: Research Output
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert.
-            
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. 
-
+            Older certification.
+ 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
