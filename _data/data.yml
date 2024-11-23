@@ -113,11 +113,21 @@ experiences:
         company: Philippine Nuclear Research Institute
         details: |
           - Modelled XRF data on urban air particulate matter to assess air quality
+      - role: Treasurer
+        time: Oct 2022 - Sep 2023
+        company: The Kapatiran - Association of Filipino Youth in Tohoku
+        details: |
+          - Managed the finances of a youth organization that aids the Tohoku-based activities of the Philippine Embassy
       - role: Teacher
         time: Oct 2019 - Oct 2020
         company: Steady Steps, Holy Spirit Drive, Quezon City
         details: |
           - Taught middle school to senior high school STEM
+      - role: Chairperson
+        time: Sep 2018 - Jun 2019
+        company: University of the Philippines Association of Chemistry Majors and Enthusiasts
+        details: |
+          - Headed the executive committee of a youth organization that conducts wide-reaching science outreach activities
 
 publications:
     title: Research Output
@@ -138,6 +148,41 @@ publications:
         link: "#"
         authors: C. Fontanilla, K. Nagata, Y. Shimizu, S. Mori, H. Hashimoto
         conference: "26th Symposium of the Silicon Chemistry Society of Japan, P-11 (Poster), Nov 2023 (Nasu, Japan)"
+        
+      - title: "Theoretical investigations into hydroboration of aromatic aldehyde catalyzed by Molybdenum–Germylyne complexes"
+        link: "#"
+        authors: Y. Shimizu, C. Fontanilla, K. Nagata, H. Hashimoto, S. Mori
+        conference: "73rd Conference of the Japan Society of Coordination Chemistry, 1PC-02 (Poster), Sep 2023 (Mito, Japan)"
+
+      - title: "Catalytic Activity of a Molybdenum-Germylyne Complex for Hydroboration Unsaturated Organic Substrates"
+        link: "#"
+        authors: C. Fontanilla, K. Nagata, H. Hashimoto
+        conference: "Tohoku University Graduate School of Science, MSc Chemistry Thesis, Mar 2023 (Sendai, Japan)"
+
+      - title: "Molybdenum-germylyne complex as a catalyst for hydroboration of carbonyl compounds"
+        link: "#"
+        authors: C. Fontanilla, K. Nagata, Y. Shimizu, S. Mori, H. Hashimoto
+        conference: "103rd Annual Meeting of the Chemical Society of Japan, K503-1pm-01 (Oral A), Mar 2023 (Noda, Japan)"
+
+      - title: "Theoretical Studies on the Hydroboration Reaction of Carbonyl Compounds by Molybdenum–Germylyne Complex"
+        link: "#"
+        authors: Y. Shimizu, C. Fontanilla, K. Nagata, H. Hashimoto, S. Mori
+        conference: "103rd Annual Meeting of the Chemical Society of Japan, K503-1pm-02 (Oral A), Mar 2023 (Noda, Japan)"
+
+      - title: "Unlocking the potential of molybdenum–germanium triple bonds for catalytic hydroboration of unsaturated organic substrates"
+        link: "#"
+        authors: C. Fontanilla, K. Nagata, H. Hashimoto
+        conference: "2022 Tohoku University Graduate School of Science – Graduate School of Life Sciences Joint Symposium, P10 (Poster), February 2022 (Sendai, Japan). Best Poster Award
+
+      - title: " Morphological control of calcite via non-homopolyanionic biomimetic synthesis"
+        link: "#"
+        authors:  C. Fontanilla, M. Conato.
+        conference: "University of the Philippines Institute of Chemistry, BSc Chemistry Thesis, Jun 2019 (Quezon City, Philippines)"
+
+      - title: " Morphological control of calcite via non-homopolyanionic biomimetic synthesis"
+        link: "#"
+        authors:  C. Fontanilla, M. Conato.
+        conference: "The 7th ASEAN Synchrotron Science Camp, 36 (Oral), Nov 2018 (Korat City, Thailand)"
 
 footer: >
     Christof Fontanilla 
