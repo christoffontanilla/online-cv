@@ -76,27 +76,31 @@ education:
         details: |
           
       - degree: Society of Silicon Chemistry, Japan
-        university: Tohoku University
-        time: 2021 - 2023 
+        university: Student Member 
+        time: Admitted Sep 2023
         details: |
         
-      - degree: BSc Chemistry
-        university: University of the Philippines Diliman
-        time: 2015 - 2019
+      - degree: Chemical Society of Japan
+        university: Student Member
+        time: Admitted Nov 2022
+        details: |
+        
+      - degree: Integrated Chemists of the Philippines
+        university: Registered Chemist
+        time: Passed Board Exam Oct 2019
         details: |
       
-
 experiences:
     title: Work Experience
     info:
       - role: Graduate Researcher
-        time: 2020 - 2026
+        time: Oct 2020 - Mar 2026
         company: Tohoku University, Graduate School of Science (Department of Chemistry, Inorganic Chemistry Laboratory)
         details: |
           - Performed quantum chemistry studies with Gaussian and Multiwfn using the supercomputer at RCCS Okazaki 
           - Used inert atmosphere techniques and NMR monitoring to conduct catalytic kinetic studies
       - role: Undergraduate Researcher
-        time: 2018 - 2019
+        time: Jun 2018 - Jun 2019
         company: University of the Philippines Diliman, College of Science (Institute of Chemistry, Polymer Laboratory)
         details: |
           - Used SEM, PXRD, DLS-PCS and FTIR to elucidate how polymer additives affect crystal morphology
@@ -105,14 +109,13 @@ experiences:
         time: May 2018 - Jun 2018
         company: National Reference Laboratory East Avenue Medical Center
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          -Conducted forensic drug analysis and water quality assays with LC/GC-MS, AAS and IEC
+      - role: Intern
+        time: Mar 2014 - May 2014
+        company: Philippine Nuclear Research Institute
+        details: |
+          -Modelled XRF data on urban air particulate matter to assess air quality
+          
 certifications:
       title: Education
       list:
@@ -227,22 +230,22 @@ skills:
 
     toolset:
       - name: 
-        level: 
+        level: 0
 
       - name: Javascript & jQuery
-        level: 
+        level: 0
 
       - name: Angular
-        level: 
+        level: 0
 
       - name: HTML5 & CSS
-        level: 
+        level: 0
 
       - name: Ruby on Rails
-        level: 
+        level: 0
 
       - name: Sketch & Photoshop
-        level: 
+        level: 0
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
