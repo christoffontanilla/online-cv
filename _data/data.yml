@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone: Japan/Sendai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://christoffontanilla.github.io/website/ # Include the full website URL, including "http://" or "https://".
+    website: # Include the full website URL, including "http://" or "https://".
     linkedin: 
     xing: 
     github: 
@@ -34,16 +34,16 @@ sidebar:
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: 
-      info:
-        - idiom: 
-          level: 
+      title: Professional Affiliations
+      info: 
+        - idiom: National Institutes of Natural Sciences - Okazaki Research Facilities
+          level: Supercomputer User at Research Center for Computational Science - Registered Jan 2024
 
-        - idiom: 
-          level: 
+        - idiom: Society of Silicon Chemistry, Japan
+          level: Student Member - Admitted Sep 2023
 
-        - idiom: 
-          level: 
+        - idiom: Chemical Society of Japan
+          level: Student Member - Admitted Nov 2022
 
     interests:
       title: 
@@ -58,11 +58,11 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Introduction
     summary: |
       PhD Candidate interested in developing computational chemistry models that deepen mechanistic 
-      understanding of novel chemical processes, as well as being interested 
-      in using theoretical chemistry to develop applications for unprecedented chemical properties
+      understanding of novel chemical processes, and in deriving applications for unprecedented chemical properties
+      using theoretical chemistry
 education:
     title: Education
     info:
