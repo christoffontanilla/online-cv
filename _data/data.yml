@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -97,38 +97,47 @@ experiences:
         details: |
           - Performed quantum chemistry studies with Gaussian and Multiwfn using the supercomputer at RCCS Okazaki
           - Used inert atmosphere techniques and NMR monitoring to conduct catalytic kinetic studies
+      - role: Undergraduate Researcher
+        time: Jun 2018 - Jun 2019
+        company: University of the Philippines (Polymer Laboratory, Institute of Chemistry)
+        details: |
+          - Used SEM, PXRD, DLS-PCS and FTIR to elucidate how polymer additives affect crystal morphology
+          - Developed skills in PES/PEEM-LEEM (Synchrotron Radiation)   
+      - role: Intern
+        time: May 2018 - Jun 2018
+        company: National Reference Laboratory East Avenue Medical Center 
+        details: |
+          - Conducted forensic drug analysis and water quality assays with LC/GC-MS, AAS and IEC 
+      - role: Intern
+        time: May 2018 - Jun 2018
+        company: Philippine Nuclear Research Institute
+        details: |
+          - Modelled XRF data on urban air particulate matter to assess air quality
       - role: Teacher
         time: Oct 2019 - Oct 2020
         company: Steady Steps, Holy Spirit Drive, Quezon City
         details: |
           - Taught middle school to senior high school STEM
-      - role: Undergraduate Researcher
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here 
-            - Bullet point
-            - Bullet point
 
 publications:
     title: Research Output
     intro: |
       
     papers:
-      - title: The Art of Computer Programming
+      - title: "Molybdenum-germanium triple bond as a catalytic platform for hydroboration of unsaturated organic substrates"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: C. Fontanilla
+        conference: "41st Colloquium on Inorganic and Analytical Chemistry (Chemical Society of Japan – Tohoku Branch), Oral, May 2024 (Yamagata, Japan)"
+        
+      - title: "Molybdenum-germanium triple-bonded complex as catalyst for hydroboration of carbonyl substrates"
+        link: "#"
+        authors:  C. Fontanilla, K. Nagata, Y. Shimizu, S. Mori, H. Hashimoto
+        conference: "20th International Symposium on Silicon Chemistry – 9th Asian Silicon Symposium (ISOS-20/ ASiS-9), 4CO05 (Oral), May 2024 (Hiroshima, Japan)" 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Molybdenum-germanium triple-bonded complex for base-free catalytic hydroboration of aldehydes and ketones"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: C. Fontanilla, K. Nagata, Y. Shimizu, S. Mori, H. Hashimoto
+        conference: "26th Symposium of the Silicon Chemistry Society of Japan, P-11 (Poster), Nov 2023 (Nasu, Japan)"
 
 footer: >
     Christof Fontanilla 
