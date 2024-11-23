@@ -109,12 +109,12 @@ experiences:
         time: May 2018 - Jun 2018
         company: National Reference Laboratory East Avenue Medical Center
         details: |
-          -Conducted forensic drug analysis and water quality assays with LC/GC-MS, AAS and IEC
+          - Conducted forensic drug analysis and water quality assays with LC/GC-MS, AAS and IEC
       - role: Intern
         time: Mar 2014 - May 2014
         company: Philippine Nuclear Research Institute
         details: |
-        -Modelled XRF data on urban air particulate matter to assess air quality
+          - Modelled XRF data on urban air particulate matter to assess air quality
           
 certifications:
       title: Education
@@ -226,7 +226,7 @@ skills:
         level: 
 
       - name: Sketch & Photoshop
-        level: 0
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
