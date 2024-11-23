@@ -97,32 +97,38 @@ experiences:
         details: |
           - Performed quantum chemistry studies with Gaussian and Multiwfn using the supercomputer at RCCS Okazaki
           - Used inert atmosphere techniques and NMR monitoring to conduct catalytic kinetic studies
+          
       - role: Undergraduate Researcher
         time: Jun 2018 - Jun 2019
         company: University of the Philippines (Polymer Laboratory, Institute of Chemistry)
         details: |
           - Used SEM, PXRD, DLS-PCS and FTIR to elucidate how polymer additives affect crystal morphology
           - Developed skills in PES/PEEM-LEEM (Synchrotron Radiation)   
+          
       - role: Intern
         time: May 2018 - Jun 2018
         company: National Reference Laboratory East Avenue Medical Center 
         details: |
           - Conducted forensic drug analysis and water quality assays with LC/GC-MS, AAS and IEC 
+          
       - role: Intern
         time: May 2018 - Jun 2018
         company: Philippine Nuclear Research Institute
         details: |
           - Modelled XRF data on urban air particulate matter to assess air quality
+          
       - role: Treasurer
         time: Oct 2022 - Sep 2023
         company: The Kapatiran - Association of Filipino Youth in Tohoku
         details: |
           - Managed the finances of a youth organization that aids the Tohoku-based activities of the Philippine Embassy
+          
       - role: Teacher
         time: Oct 2019 - Oct 2020
         company: Steady Steps, Holy Spirit Drive, Quezon City
         details: |
           - Taught middle school to senior high school STEM
+          
       - role: Chairperson
         time: Sep 2018 - Jun 2019
         company: University of the Philippines Association of Chemistry Majors and Enthusiasts
@@ -132,7 +138,6 @@ experiences:
 publications:
     title: Research Output
     intro: |
-      
     papers:
       - title: "Molybdenum-germanium triple bond as a catalytic platform for hydroboration of unsaturated organic substrates"
         link: "#"
@@ -172,7 +177,7 @@ publications:
       - title: "Unlocking the potential of molybdenum–germanium triple bonds for catalytic hydroboration of unsaturated organic substrates"
         link: "#"
         authors: C. Fontanilla, K. Nagata, H. Hashimoto
-        conference: "2022 Tohoku University Graduate School of Science – Graduate School of Life Sciences Joint Symposium, P10 (Poster), February 2022 (Sendai, Japan). Best Poster Award
+        conference: "2022 Tohoku University Graduate School of Science – Graduate School of Life Sciences Joint Symposium, P10 (Poster), February 2022 (Sendai, Japan). Best Poster Award"
 
       - title: "Morphological control of calcite via non-homopolyanionic biomimetic synthesis"
         link: "#"
